@@ -98,6 +98,10 @@ body * {
     width: 384px;
   }
 
+  #card-img img {
+    width: 336px;
+  }
+
   #card-title a:hover {
     color: rgba(244, 208, 78);
   }
